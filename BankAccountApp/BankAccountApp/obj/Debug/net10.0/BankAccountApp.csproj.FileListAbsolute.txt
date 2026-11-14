@@ -1,0 +1,15 @@
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\bin\Debug\net10.0\BankAccountApp.exe
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\bin\Debug\net10.0\BankAccountApp.deps.json
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\bin\Debug\net10.0\BankAccountApp.runtimeconfig.json
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\bin\Debug\net10.0\BankAccountApp.dll
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\bin\Debug\net10.0\BankAccountApp.pdb
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAccountApp.AssemblyInfoInputs.cache
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAccountApp.AssemblyInfo.cs
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAccountApp.csproj.CoreCompileInputs.cache
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAccountApp.dll
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\refint\BankAccountApp.dll
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAccountApp.pdb
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAccountApp.genruntimeconfig.cache
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\ref\BankAccountApp.dll
+D:\524H0168_Lab9\BankAccountApp\BankAccountApp\obj\Debug\net10.0\BankAcco.B2F43B14.Up2Date
